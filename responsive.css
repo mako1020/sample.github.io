@@ -1,0 +1,1080 @@
+@media only screen and (min-width: 768px) and (max-width: 1190px) {
+  .header-left p {
+    padding-top: 36px;
+    font-size: 12px;
+    letter-spacing: normal;
+  }
+  .header-contact a {
+    letter-spacing: normal;
+    font-size: 12px;
+  }
+  .normal-row {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .isara-head {
+    padding: 104px 0 115px;
+  }
+  .isara-head-wrap h1 {
+    font-size: 24px;
+  }
+  .isara-head-wrap p {
+    font-size: 16px;
+  }
+  .conversion-wrap p {
+    font-size: 16px;
+  }
+  .conversion-top {
+    margin-top: 12px;
+  }
+  .conversion-top p {
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.64285714;
+  }
+  .contact-wrap {
+    margin: 10px auto;
+    padding: 25px 120px;
+    width: 100%;
+    max-width: calc(100% - 160px);
+  }
+  .contact-wrap h1 {
+    font-size: 18px;
+  }
+  .conversion-bottom {
+    margin-top: -11px;
+  }
+  .conversion-bottom p {
+    font-size: 18px;
+    letter-spacing: normal;
+    margin-bottom: 0px;
+  }
+  .free {
+    height: 587px;
+  }
+  .heading-wrap {
+    margin: 0 auto;
+    width: calc(100% - 40px);
+  }
+  .heading {
+    font-size: 24px;
+  }
+  .heading h1 {
+    margin-top: 23px;
+    margin-bottom: 13px;
+  }
+  .double {
+    margin-top: 20px !important;
+    margin-bottom: 10px !important;
+    line-height: 1.67;
+  }
+  .free-text p {
+    font-size: 16px;
+  }
+  .about-isara-text p {
+    font-size: 16px;
+  }
+  .skill-text p {
+    font-size: 16px;
+  }
+  .normal {
+    padding-top: 58px;
+  }
+  .normal .container {
+    width: 100%;
+    padding: 0 20%;
+  }
+  .normal-head {
+    margin-bottom: 18px;
+  }
+  .normal-head h1 {
+    font-size: 24px;
+  }
+  .normal-text p {
+    font-size: 16px;
+  }
+  .sidebox-head p {
+    font-size: 14px;
+  }
+  .sidebox-text p {
+    font-size: 12px;
+    letter-spacing: normal;
+  }
+  .sidebox-text h5 {
+    font-size: 14px;
+  }
+  .normal-bottom p {
+    font-size: 16px;
+  }
+  .sidebox:nth-of-type(2) {
+    margin: 0;
+  }
+  .sidebox {
+    width: 60%;
+    margin: 0 20% 20px 20% !important;
+  }
+  .col-md-4 {
+    margin: 0 auto;
+    max-width: none;
+  }
+  .learn {
+    padding: 63px 0 50px;
+  }
+  .learn-head {
+    margin-bottom: 40px;
+  }
+  .learn-head h1 {
+    font-size: 24px;
+    margin-bottom: 42px;
+  }
+  .learn-head h1 span {
+    font-size: 14px;
+  }
+  .learn-head p {
+    font-size: 16px;
+  }
+  .learnbox {
+    padding: 20px;
+  }
+  .learnbox img {
+    width: 100%;
+    max-width: 180px;
+  }
+  .learn-bottom {
+    margin-top: 40px;
+  }
+  .learn-bottom p {
+    font-size: 14px;
+  }
+  .merit {
+    padding: 0 50px;
+    padding-bottom: 40px;
+  }
+  .merit .heading-wrap {
+    padding-top: 30px;
+  }
+  .merit .heading {
+    padding-top: 9px;
+  }
+  .merit .heading h1 {
+    margin-top: -6px;
+    line-height: 1.67;
+  }
+  .merit .heading p {
+    font-size: 16px;
+    line-height: 2.5;
+  }
+  .merit .container {
+    margin: 0 auto;
+    width: auto;
+    max-width: none;
+    padding: 0 15px;
+  }
+  .learningbox {
+    width: 33.3333%;
+    margin-bottom: 68px;
+  }
+  .learning-img {
+    margin: 0 auto;
+    width: 300px;
+    background-position: center;
+  }
+  .learning-text {
+    padding: 0 20px;
+  }
+  .learning-text h3 {
+    text-align: center;
+    font-size: 16px;
+  }
+  .learning-text p {
+    font-size: 14px;
+  }
+  .meritbox h3 {
+    font-size: 24px;
+  }
+  .meritbox h4 {
+    font-size: 16px;
+  }
+  .meritbox p {
+    font-size: 14px;
+  }
+  .merit-bottom {
+    width: 800px;
+  }
+  .merit-bottom p {
+    letter-spacing: normal;
+    font-size: 12px;
+  }
+  .member {
+    padding: 0 50px;
+    padding-top: 92px;
+    padding-bottom: 50px;
+  }
+  .member-head h1 {
+    font-size: 24px;
+  }
+  .member-head p {
+    font-size: 14px;
+  }
+  .memberbox {
+    margin-top: 208px;
+  }
+  .memberbox p {
+    font-size: 14px;
+  }
+  .member-text {
+    min-height: auto;
+  }
+  .member-text p:nth-of-type(4) {
+    margin-top: 22px;
+  }
+  .why h1 {
+    line-height: 40px;
+    font-size: 18px;
+  }
+  .whycircle {
+    font-size: 20px;
+  }
+  .answer-head h1 {
+    font-size: 24px;
+  }
+  .answer-head p {
+    font-size: 14px;
+  }
+  .answer-text p {
+    letter-spacing: normal;
+    font-size: 12px;
+  }
+  .answerbox {
+    margin-left: 0;
+  }
+  .contents {
+    padding-bottom: 55px;
+  }
+  .contents .container {
+    padding: 0 10%;
+  }
+  .contents li {
+    font-size: 14px;
+  }
+  .contents .li {
+    font-size: 16px;
+  }
+  .contents-head {
+    margin-bottom: 55px;
+  }
+  .contents-head h1 {
+    font-size: 24px;
+  }
+  .contents-head p {
+    font-size: 14px;
+  }
+  .contents-bottom {
+    font-size: 16px;
+  }
+  .flow {
+    padding: 0 40px;
+    padding-bottom: 20px;
+  }
+  .flow-head {
+    padding-top: 40px;
+  }
+  .flow-head h1 {
+    font-size: 24px;
+  }
+  .fa-laptop {
+    font-size: 20px;
+  }
+  .flow-left p {
+    font-size: 18px;
+  }
+  .flow-right p {
+    font-size: 14px;
+  }
+  .flow-right h6 {
+    letter-spacing: normal;
+    font-size: 12px;
+  }
+  .flowline {
+    margin: 0 auto;
+    max-width: calc(100% - 300px);
+  }
+  .bangkok {
+    padding: 40px;
+  }
+  .bangkok li {
+    font-size: 14px;
+  }
+  .bangkok-text p {
+    letter-spacing: normal;
+    font-size: 12px;
+  }
+  .bangkok-bottom p {
+    font-size: 16px;
+  }
+  .gift {
+    padding: 40px;
+  }
+  .gift-head {
+    font-size: 24px;
+  }
+  .fa-gift {
+    font-size: 20px;
+  }
+  .gift-text {
+    font-size: 14px;
+  }
+  .gift-head2 {
+    font-size: 24px;
+    bottom: -76px;
+    width: 400px;
+  }
+  .not-head {
+    font-size: 24px;
+  }
+  .not-text {
+    font-size: 16px;
+  }
+  .not-main {
+    max-width: calc(100% - 120px);
+    font-size: 24px;
+  }
+  .not-bottom {
+    font-size: 16px;
+  }
+  .message .container {
+    width: calc(100% - 40px);
+  }
+  .message .col-md-3 {
+    padding: 20px;
+  }
+  .message .col-md-9 {
+    padding: 20px;
+  }
+  .message-head h1 {
+    font-size: 24px;
+  }
+  .message-head p {
+    font-size: 16px;
+  }
+  .form {
+    padding: 40px 15%;
+  }
+  .form-head h1 {
+    font-size: 24px;
+  }
+  .form-head p {
+    font-size: 14px;
+  }
+  .question {
+    padding: 60px 40px 55px;
+  }
+  .question-head h1 {
+    font-size: 24px;
+  }
+  .question-top .fas {
+    font-size: 16px;
+  }
+  .question-left p {
+    font-size: 16px;
+  }
+  .question-left i {
+    font-size: 13px;
+    line-height: 17.6px;
+  }
+  .question-bottom {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .merit {
+    padding-bottom: 40px;
+  }
+  .merit .col-md-4 {
+    width: 100%;
+    margin-bottom: 28px;
+  }
+  .meritbox {
+    margin-top: 40px;
+    padding: 30px 20px;
+  }
+  .merit-bottom {
+    width: auto;
+    max-width: 800px;
+  }
+  .member .container {
+    margin-top: 10px;
+  }
+  .memberbox {
+    width: 100%;
+    margin-top: 198px;
+  }
+  .answer {
+    padding: 0 20px;
+    padding-bottom: 20px;
+  }
+  .answerbox {
+    width: 100%;
+    max-width: 100%;
+    -webkit-box-flex: 1;
+        -ms-flex: auto;
+            flex: auto;
+  }
+  .contents .col-md-6 {
+    -webkit-box-flex: 0;
+        -ms-flex: none;
+            flex: none;
+    max-width: 100%;
+  }
+  .gift .col-md-4 {
+    max-width: 100% !important;
+  }
+  .message .col-md-3 {
+    max-width: none;
+    -webkit-box-flex: 1;
+        -ms-flex: auto;
+            flex: auto;
+    width: 100%;
+  }
+  .message .col-md-3 img {
+    width: 100%;
+  }
+  .message .col-md-9 {
+    max-width: none;
+    -webkit-box-flex: 1;
+        -ms-flex: auto;
+            flex: auto;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .br {
+    display: block;
+  }
+  .br1 {
+    display: none;
+  }
+  .normal .container {
+    width: 100%;
+  }
+  .normal .container .row {
+    margin: 0 -15px;
+  }
+  .nomal-row {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .header-wrap {
+    height: 62px;
+    max-width: 100%;
+  }
+  .header-left {
+    height: 100%;
+    position: relative;
+    padding-left: 10px;
+  }
+  .header-left h1 {
+    position: absolute;
+    bottom: 6px;
+    width: 90px;
+  }
+  .header-left p {
+    position: absolute;
+    white-space: nowrap;
+    letter-spacing: normal;
+    top: -26px;
+    font-size: 10px;
+  }
+  .header-right {
+    display: none;
+  }
+  .header-document {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 76px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    background-color: #da6b64;
+  }
+  .header-document img {
+    padding-top: 9px;
+    margin: 0 auto;
+    width: 20px;
+  }
+  .header-document a {
+    text-align: center;
+    font-size: 12px;
+    color: #fff;
+  }
+  .header-document a:hover {
+    text-decoration: underline;
+  }
+  .isara-head {
+    margin-top: 62px;
+    background: url(https://isara.life/wp-content/themes/isara_v2/img/mainsp.jpg) center no-repeat;
+    background-size: cover;
+    padding: 19px 0 32px;
+  }
+  .isara-head-wrap h1 {
+    font-size: 18px;
+    margin-bottom: 0px;
+  }
+  .isara-head-wrap p {
+    font-size: 15px;
+  }
+  .isara-img {
+    padding-top: 20px;
+  }
+  .conversion {
+    padding-bottom: 23px;
+  }
+  .conversion ul {
+    margin-top: 8px;
+  }
+  .conversion-wrap p {
+    padding-top: 15px;
+    font-size: 15px;
+  }
+  .conversion-top {
+    margin-top: 10px;
+  }
+  .conversion-top p {
+    font-size: 13px;
+    padding: 2px 4px;
+  }
+  .contact-wrap {
+    margin: 27px auto;
+    padding: 15px 20px;
+    width: 100%;
+    max-width: calc(100% - 40px);
+  }
+  .contact-wrap h1 {
+    font-size: 20px;
+    letter-spacing: normal;
+  }
+  .conversion-bottom {
+    margin-top: -16px;
+  }
+  .conversion-bottom p {
+    font-size: 15px;
+    letter-spacing: normal;
+    margin-bottom: 11px;
+  }
+  .free {
+    height: 656px;
+    background-size: contain;
+    background-position: bottom;
+  }
+  .heading {
+    line-height: 2.2322222;
+    font-size: 18px;
+    width: 100%;
+    padding: 5px 20px;
+  }
+  .free-textarea {
+    margin-top: -5px;
+  }
+  .free-text {
+    margin-top: 30px;
+  }
+  .free-text p {
+    font-size: 15px;
+    letter-spacing: normal;
+  }
+  .free-sp {
+    margin-top: 24px;
+  }
+  .heading-wrap {
+    padding-top: 30px;
+    margin: 0 auto;
+    width: 95%;
+    max-width: calc(100% - 10px);
+  }
+  .before {
+    width: 30px;
+    height: 30px;
+  }
+  .after {
+    width: 30px;
+    height: 30px;
+  }
+  .double {
+    margin-top: 25px !important;
+    margin-bottom: 15px !important;
+  }
+  .about {
+    bottom: -30px;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+  }
+  .about p {
+    font-size: 12px;
+  }
+  .about-isara {
+    padding-top: 30px;
+  }
+  .about-isara-text {
+    margin-top: 15px;
+    margin-bottom: 30px;
+  }
+  .about-isara-text p {
+    font-size: 15px;
+  }
+  .skill {
+    padding: 10px;
+  }
+  .skill-text p {
+    font-size: 15px;
+  }
+  .box {
+    padding: 5px;
+  }
+  .box-img {
+    height: 30px;
+  }
+  .box-img img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .box-text p {
+    font-size: 10px;
+  }
+  .normal {
+    padding: 50px 30px 45px 30px;
+    background: url(https://isara.life/wp-content/themes/isara_v2/img/aboutsecondbgsp.jpg) center no-repeat;
+    background-size: cover;
+  }
+  .normal-head {
+    margin-bottom: 20px;
+  }
+  .normal-head h1 {
+    font-size: 18px;
+    line-height: 1.12;
+  }
+  .normal-text {
+    letter-spacing: normal;
+    margin-bottom: 15px;
+  }
+  .normal-text p {
+    font-size: 13px;
+  }
+  .sidebox:nth-of-type(2) {
+    margin: 15px 0 0;
+  }
+  .sidebox {
+    padding: 15px 50px;
+    width: 100%;
+    margin-top: 15px;
+  }
+  .sidebox-head {
+    margin-bottom: 15px;
+  }
+  .sidebox-head p {
+    font-size: 12px;
+  }
+  .sidebox-text p {
+    font-size: 12px;
+    margin-bottom: 5px;
+    letter-spacing: normal;
+  }
+  .sidebox-text h5 {
+    font-size: 12px;
+  }
+  .normal-bottom {
+    padding: 20px;
+  }
+  .normal-bottom p {
+    font-size: 12px;
+  }
+  .learn {
+    padding: 48px 0 30px;
+  }
+  .learn .container {
+    padding: 0 50px;
+  }
+  .learn .container .col-md-3 {
+    padding: 5px;
+  }
+  .learn .container .col-md-3 img {
+    width: 100%;
+    max-width: 120px;
+  }
+  .learn-head {
+    margin-bottom: 10px;
+  }
+  .learn-head h1 {
+    font-size: 18px;
+    margin-bottom: 44px;
+  }
+  .learn-head h1 span {
+    font-size: 12px;
+  }
+  .learn-head p {
+    font-size: 15px;
+  }
+  .learn-bottom {
+    margin-top: 15px;
+  }
+  .learn-bottom p {
+    font-size: 12px;
+  }
+  .merit .heading {
+    margin-bottom: 20px;
+  }
+  .merit .heading p {
+    padding-top: 11px;
+    padding-bottom: 2px;
+    font-size: 15px;
+    line-height: 1.4;
+  }
+  .merit .heading h1 {
+    padding-bottom: 5px;
+  }
+  .merit .col-md-4 {
+    margin-bottom: 18px;
+  }
+  .learning-img {
+    height: 120px;
+  }
+  .learning-text {
+    padding: 0 20px;
+  }
+  .learning-text h3 {
+    text-align: center;
+    font-size: 15px;
+    padding-top: 2px;
+  }
+  .learning-text p {
+    font-size: 12px;
+  }
+  .meritbox {
+    margin-top: 15px;
+    padding: 0px 10px;
+  }
+  .meritbox h3 {
+    font-size: 18px;
+  }
+  .meritbox h4 {
+    font-size: 15px;
+  }
+  .meritbox p {
+    letter-spacing: normal;
+    font-size: 10px;
+  }
+  .merit-bottom {
+    margin-top: 15px;
+    padding: 0 10px;
+  }
+  .merit-bottom p {
+    letter-spacing: normal;
+    font-size: 12px;
+  }
+  .member {
+    background: url(https://isara.life/wp-content/themes/isara_v2/img/teacherbgsp.jpg) center;
+    background-size: cover;
+    padding: 0 10px;
+    padding-top: 62px;
+    padding-bottom: 20px;
+  }
+  .member-head h1 {
+    font-size: 18px;
+  }
+  .member-head p {
+    font-size: 12px;
+  }
+  .memberbox {
+    margin-top: 120px;
+  }
+  .memberbox p {
+    font-size: 12px;
+  }
+  .member-img {
+    top: -85px;
+  }
+  .member-img img {
+    width: 120px;
+    height: 120px;
+  }
+  .member-text {
+    padding: 40px 10px 10px;
+    min-height: auto;
+  }
+  .member-text p:nth-of-type(4) {
+    margin-top: 19px;
+  }
+  .why {
+    padding: 20px 0;
+  }
+  .why .heading h1 {
+    font-size: 14px;
+    line-height: 40px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+  }
+  .whycircle {
+    margin-bottom: 10px;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    font-size: 12px;
+  }
+  .triangle {
+    bottom: -15px;
+    border-top: 15px solid #ebb94d;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+  }
+  .answer {
+    padding: 0 10px;
+  }
+  .answer-head {
+    margin-top: 20px;
+  }
+  .answer-head h1 {
+    font-size: 18px;
+  }
+  .answer-head p {
+    font-size: 12px;
+  }
+  .answer-text p {
+    letter-spacing: normal;
+    font-size: 12px;
+  }
+  .answerbox {
+    margin-left: 0;
+  }
+  .answerbox-text {
+    margin-top: -5px;
+    padding-top: 0;
+    padding-left: 0;
+  }
+  .contents {
+    background: url(https://isara.life/wp-content/themes/isara_v2/img/classbgsp.jpg) center;
+    background-size: cover;
+    padding: 0 10px 25px;
+  }
+  .contents li {
+    font-size: 12px;
+  }
+  .contents .li {
+    font-size: 15px;
+  }
+  .contents-head {
+    padding-top: 40px;
+    margin-bottom: 30px;
+  }
+  .contents-head h1 {
+    font-size: 18px;
+  }
+  .contents-head p {
+    font-size: 12px;
+  }
+  .contents-bottom {
+    padding: 20px 0;
+    font-size: 15px;
+  }
+  .flow-wrap {
+    display: block;
+  }
+  .flow-head {
+    padding-top: 40px;
+    padding-bottom: 30px;
+  }
+  .flow-head h1 {
+    font-size: 18px;
+  }
+  .fa-laptop {
+    font-size: 14px;
+  }
+  .flow-img {
+    display: none;
+  }
+  .flow {
+    padding: 0 15px 55px;
+  }
+  .flow-contents {
+    display: none;
+  }
+  .bangkok {
+    background-image: url(https://isara.life/wp-content/themes/isara_v2/img/bangkokbgsp.jpg);
+    padding: 20px 15px;
+  }
+  .bangkok li {
+    font-size: 12px;
+  }
+  .bangkok-head {
+    text-align: center;
+  }
+  .bangkok-text p {
+    letter-spacing: normal;
+    font-size: 12px;
+  }
+  .bangkok-bottom p {
+    font-size: 15px;
+  }
+  .gift {
+    padding: 20px 15px;
+  }
+  .gift .container {
+    margin-top: 10px;
+    padding: 30px;
+  }
+  .gift .row {
+    display: none;
+  }
+  .gift-head {
+    margin-top: 0px;
+    font-size: 18px;
+  }
+  .fa-gift {
+    font-size: 14px;
+  }
+  .gift-text {
+    margin-top: 20px;
+    font-size: 12px;
+  }
+  .gift-head2 {
+    width: 250px;
+    bottom: -37px;
+    font-size: 18px;
+  }
+  .giftsp {
+    display: block;
+  }
+  .giftspbox {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 15px 0;
+  }
+  .gift-left {
+    width: 30%;
+  }
+  .gift-left p {
+    margin: 0 auto;
+    background-color: #fff;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 50%;
+    font-size: 12px;
+    color: #ebb94d;
+  }
+  .gift-right {
+    width: 70%;
+    padding: 12px 0;
+    text-align: left;
+    font-size: 12px;
+    color: #fff;
+  }
+  .gift-right p {
+    margin-bottom: 10px;
+  }
+  .not {
+    padding: 40px 10px;
+    background-image: url(https://isara.life/wp-content/themes/isara_v2/img/specialdetailsp.jpg);
+  }
+  .not-head {
+    font-size: 18px;
+  }
+  .not-text {
+    letter-spacing: 1px;
+    font-size: 12px;
+  }
+  .not-main {
+    width: 95%;
+    max-width: calc(100% - 20px);
+    padding: 10px 10px;
+    font-size: 18px;
+  }
+  .not-main .before {
+    width: 30px;
+    height: 30px;
+  }
+  .not-main .after {
+    width: 30px;
+    height: 30px;
+  }
+  .not-bottom {
+    letter-spacing: 1px;
+    font-size: 12px;
+  }
+  .message {
+    padding: 20px 0;
+  }
+  .message .container {
+    max-width: calc(100% - 30px);
+  }
+  .message .col-md-9 p {
+    margin: 10px 0;
+  }
+  .message-head h1 {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  .message-head p {
+    font-size: 15px;
+    margin-bottom: 15px;
+  }
+  .form {
+    overflow: hidden;
+    padding: 25px 15px;
+  }
+  .form-head h1 {
+    margin-top: 15px;
+    font-size: 18px;
+  }
+  .form-head p {
+    font-size: 12px;
+  }
+  .question {
+    padding: 40px 15px 35px;
+  }
+  .question-head {
+    margin-bottom: 20px;
+  }
+  .question-head h1 {
+    font-size: 18px;
+  }
+  .question-container {
+    max-width: 100%;
+  }
+  .question-top {
+    padding: 10px;
+  }
+  .question-top .fas {
+    font-size: 15px;
+  }
+  .question-left p {
+    font-size: 15px;
+  }
+  .question-left i {
+    font-size: 13px;
+    line-height: 16.5px;
+  }
+  .question-bottom p {
+    font-size: 12px;
+  }
+  .footer {
+    padding: 5px 15px 5px 0;
+  }
+  #scroll {
+    bottom: 20px;
+    right: 10px;
+    padding: 15px;
+  }
+  #scroll .fas {
+    font-size: 15px;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
